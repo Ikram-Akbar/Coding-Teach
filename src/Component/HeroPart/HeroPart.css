@@ -1,0 +1,12 @@
+.container-custom-style{
+    text-align: justify;
+    text-indent: 2px;
+    
+}
+.custom-span-color{
+    color:green;
+}
+.custom-img-style image{
+    width: 250px;
+    height: 100%
+}

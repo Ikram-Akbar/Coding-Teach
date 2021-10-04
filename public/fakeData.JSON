@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Web-Design and Development",
+    "type": "Beginners",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/yFq7RZ1/markus-spiske-cv-BBO4-Pz-WPg-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Complete Larval",
+    "type": "Mid level",
+    "language": "Bengali",
+    "duration": 4,
+    "price": 100,
+    "img": "https://i.ibb.co/Vx8fw6g/laravel-free-open-source-php-web-framework-created-taylor-otwell-intended-development-web-applicatio.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Front-End-Development",
+    "type": "Mid-Level",
+    "language": "Bengali",
+    "duration": 6,
+    "price": 100,
+    "img": "https://i.ibb.co/2NM2kz8/clement-helardot-95-YRwf6-CNw8-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Back-End-Development with Django",
+    "type": "Advanced",
+    "language": "Bengali",
+    "duration": 4,
+    "price": 100,
+    "img": "https://i.ibb.co/x3tJxX4/raster-round-icon-django-python-framework-isolated-flat-design-illustration-46697572.jpg"
+  },
+  {
+    "id": 5,
+    "name": "PYTHON - In a Nutshell",
+    "type": "Beginners",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/gDQWzsC/python-programming-language-programing-workflow-abstract-algorithm-concept-virtual-screen-223469894.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PHP Mastering",
+    "type": "Mid Level",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/ysBFXC0/ben-griffiths-4wx-WBy8-Jo1-I-unsplash.jpg"
+  },
+  {
+    "id": 7,
+    "name": "JavaScript for All",
+    "type": "Beginners",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/C04Q73m/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-de.jpg"
+  },
+  {
+    "id": 8,
+    "name": "JS - A Journey to Web",
+    "type": "Mid Level",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/C04Q73m/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-de.jpg"
+  },
+  {
+    "id": 9,
+    "name": "MERN Stack",
+    "type": "Beginners to Mid Level",
+    "language": "Bengali",
+    "duration": 6,
+    "price": 100,
+    "img": "https://i.ibb.co/4PZt04Y/pankaj-patel-y-EAOf-WSdzg-M-unsplash.jpg"
+  },
+  {
+    "id": 10,
+    "name": "WordPress Theme Development",
+    "type": "Advanced",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/g9JJcYV/moritz-mentges-5-Ml-BMYDs-GBY-unsplash.jpg"
+  },
+  {
+    "id": 11,
+    "name": "React - All You Need To Know ",
+    "type": "Advanced",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/N3J3g7F/logo-og.png"
+  },
+  {
+    "id": 12,
+    "name": "JavaScript with React Native",
+    "type": "Advanced",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/qNZvgtr/react-native-dark-poster-blue-vector-icon-black-background-210422185.jpg"
+  },
+  {
+    "id": 13,
+    "name": "RUST for Beginners",
+    "type": "Beginners",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/4PZt04Y/pankaj-patel-y-EAOf-WSdzg-M-unsplash.jpg"
+  },
+  {
+    "id": 14,
+    "name": "RUBY - A Language for Dev",
+    "type": "Advanced",
+    "language": "Bengali",
+    "duration": 3,
+    "price": 100,
+    "img": "https://i.ibb.co/4PZt04Y/pankaj-patel-y-EAOf-WSdzg-M-unsplash.jpg"
+  }
+]
